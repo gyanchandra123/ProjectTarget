@@ -1,4 +1,4 @@
 ---for the reset command---
 
 
----added for testing the differences b/w restore and rm --cached---
+---added for testing the differences b/w restore and rm --cached-  --
